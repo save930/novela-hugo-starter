@@ -16,6 +16,7 @@ sections:
   match: "**/*"
   templates:
   - post
+  - post
 - type: heading
   label: Data
 - type: directory
